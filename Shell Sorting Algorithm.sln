@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell Sorting Algorithm", "Shell Sorting Algorithm\Shell Sorting Algorithm.csproj", "{28B8B9A2-13B8-4BD9-A8BD-49E63BDF386B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B8B9A2-13B8-4BD9-A8BD-49E63BDF386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B8B9A2-13B8-4BD9-A8BD-49E63BDF386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B8B9A2-13B8-4BD9-A8BD-49E63BDF386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B8B9A2-13B8-4BD9-A8BD-49E63BDF386B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037D297D-A9CD-4F02-9777-94A584F3D23F}
+	EndGlobalSection
+EndGlobal
